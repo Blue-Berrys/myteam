@@ -2,7 +2,14 @@
   "schemaVersion": 4,
   "skills": [],
   "workConfigs": [],
-  "documents": [],
+  "documents": [
+    {
+      "id": "doc-agents-md-f430f97a",
+      "name": "AGENTS.md",
+      "path": "docs/doc-agents-md-f430f97a.md",
+      "target": "docs/team/doc-agents-md-f430f97a.md"
+    }
+  ],
   "instructions": [],
   "mcpServers": [],
   "environment": []
